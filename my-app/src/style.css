@@ -1,0 +1,31 @@
+.ui.borderless.topmenu.menu {
+  background-color: white;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.midmenu.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.midcont.container {
+  justify-content: center;
+  background-color: #dedede;
+}
+
+.ui.grid.footer-background {
+  background-color: #292929;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}
+
+.ui.right.aligned.header {
+  font-size: 12px;
+  color: #8e8e8e;
+  padding-right: 15px;
+  padding-top: 55px;
+}
